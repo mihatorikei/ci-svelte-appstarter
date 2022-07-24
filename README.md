@@ -3,6 +3,16 @@
     <h1>CodeIgniter4 + Svelte Application Starter</h1>
 </div>
 
+<p align="center">
+  <a href="https://github.com/firtadokei/ci-svelte-appstarter/releases">
+    <img src="https://custom-icon-badges.herokuapp.com/github/v/release/firtadokei/ci-svelte-appstarter?logo=tag">
+  </a>
+  <a href="https://packagist.org/packages/mihatori/ci-svelte-appstarter">
+    <img src="https://badges.hiptest.com:/packagist/dt/mihatori/ci-svelte-appstarter?color=%23c700ff&logo=packagist&logoColor=%23c700ff">
+  </a>
+  <img src="https://custom-icon-badges.herokuapp.com/packagist/l/mihatori/ci-svelte-appstarter?logo=law">
+<p>
+    
 ## 💡 Features:
 - ⚡ Super fast single page application (SPA).
 - 🔥 Hot Module Replacment (HMR).
