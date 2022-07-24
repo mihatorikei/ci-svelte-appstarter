@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    @apply text-white bg-gradient-to-tr bg-fixed bg-no-repeat from-indigo-900 to-dark-400;
+}
+main{
+    min-height: 100vh;
+}
+a.active{
+    @apply text-primary-500 font-bold;
+}
+
+// animation
+.spin {
+    animation: spin linear 1s infinite;
+    -webkit-animation: spin linear 1s infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
+@-webkit-keyframes spin {
+    from {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
