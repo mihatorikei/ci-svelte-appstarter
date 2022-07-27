@@ -20,7 +20,7 @@
 			<ul
 				class="flex gap-3 w-max ml-auto">
 				<li>
-					<a href="https://github.com/firtadokei/ci4-svelte">
+					<a href="https://github.com/firtadokei/ci-svelte-appstarter">
 						<i class="bi bi-github text-2xl"></i>
 					</a>
 				</li>
